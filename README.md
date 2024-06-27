@@ -29,23 +29,23 @@ This project is a fully responsive e-commerce website built with React, Redux, a
 ## Project Structure 
 ```bash
 src/
-|-- components/
-|   |-- Card.js
-|   |-- CardList.js
-|   |-- LoadingScreen.js
-|-- redux/
-|   |-- store.js
-|   |-- cardsSlice.js
-|-- App.js
-|-- index.js
-|-- index.css
+ components/
+   - Card.js
+   - CardList.js
+   - LoadingScreen.js
+  redux/
+    - store.js
+    - cardsSlice.js
+    - App.js
+    - index.js
+    - index.css
 public/
-|-- images/
-|   |-- image1.jpg
-|   |-- image2.jpg
-|   |-- image3.jpg
-|   |-- image4.jpg
-|   |-- image5.jpg
-|   |-- image6.jpg
-|-- index.html
+  - images/
+    - image1.jpg
+    - image2.jpg
+    - image3.jpg
+    - image4.jpg
+    - image5.jpg
+    - image6.jpg
+ index.html
 README.md
