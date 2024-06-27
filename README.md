@@ -23,6 +23,8 @@ This project is a fully responsive e-commerce website built with React, Redux, a
     npm install
     
 3. **Run the project:**
+   ``` bash
+   npm run dev
    
 ## Project Structure 
 ```bash
