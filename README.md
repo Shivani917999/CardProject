@@ -49,3 +49,13 @@ public/
     - image6.jpg
  index.html
 README.md
+````
+
+ ## features
+```` bash
+    Responsive Design: The application is fully responsive, ensuring a seamless experience across devices.
+    State Management: Uses Redux for state management.
+    Pagination: Allows navigation through pages of cards.
+    Card Removal: Users can remove a card from the view, and a new card is shifted in from the next page.
+    Loading Screen: Displays a loading screen for 5 seconds on startup.
+````
